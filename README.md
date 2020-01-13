@@ -10,7 +10,7 @@ Trabalho desenvolvido para a Coordenadoria Geral De Tecnologias Educacionais do 
 **Etapas:**
 1. Arquitetura de informação
 2. UX/UI design
-3. Desenvolvimento (HTML5, CSS3, JavaScript, PHP, Wordpress) 
+3. Desenvolvimento (HTML5, CSS3, JavaScript, PHP) 
 
 ![Alt ou título da imagem](/baseconhecimento.png)
 
