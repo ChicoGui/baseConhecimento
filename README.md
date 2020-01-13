@@ -11,5 +11,5 @@ Trabalho desenvolvido para a Coordenadoria Geral De Tecnologias Educacionais do 
 2. UX/UI design
 3. Desenvolvimento (HTML5, CSS3, JavaScript, Wordpress) 
 
-![Alt ou título da imagem](/baseconhetimento.png)
+![Alt ou título da imagem](/baseconhecimento.png)
 
