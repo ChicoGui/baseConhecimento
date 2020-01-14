@@ -5,7 +5,7 @@ Plataforma para que administradores, professores e tutores possam encontrar info
 
 Trabalho desenvolvido para a Coordenadoria Geral De Tecnologias Educacionais do Instituto Federal do Espírito Santo.
 
-[Acessar Base de Conhecimento](http://conhecimento.cefor.ifes.edu.br")
+[Acessar Base de Conhecimento](http://conhecimento.cefor.ifes.edu.br)
 
 **ano:** 2019
 
