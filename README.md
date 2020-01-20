@@ -14,7 +14,7 @@ O principal objetivo é elaborar e propor estratégias de gestão de conheciment
 **Etapas:**
 1. Arquitetura de informação
 2. UX/UI design
-3. Desenvolvimento (HTML5, CSS3, JavaScript, PHP) 
+3. Desenvolvimento (HTML5, CSS3, bootstrap, JavaScript, PHP) 
 
 ![Base de Conehcimento - IFES](/baseconhecimento.png)
 
