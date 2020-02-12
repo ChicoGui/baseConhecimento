@@ -11,10 +11,7 @@ O principal objetivo é elaborar e propor estratégias de gestão de conheciment
 
 **ano:** 2019
 
-**Etapas:**
-1. Arquitetura de informação
-2. UX/UI design
-3. Desenvolvimento (HTML5, CSS3, bootstrap, JavaScript, PHP) 
+**UX Design e Desenvolvimento front/back-end**
 
-![Base de Conehcimento - IFES](/baseconhecimento.png)
+**Tecnologias aplicadas:** Bootstrap, JavaScript, PHP(Wordpress).
 
