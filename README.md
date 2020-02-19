@@ -10,6 +10,7 @@ O principal objetivo é elaborar e propor estratégias de gestão de conheciment
 [Acessar Base de Conhecimento](http://conhecimento.cefor.ifes.edu.br)
 
 **ano:** 2019
+**status:** congelado
 
 **UX Design e Desenvolvimento front/back-end**
 
