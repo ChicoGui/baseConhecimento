@@ -1,4 +1,7 @@
 # Base de Conhecimento
+
+[Acessar Cursos Abertos ifes](http://mooc.cefor.ifes.edu.br)
+
 ## Plataforma para gestão de conhecimento
 
 Trabalho desenvolvido dentro da Coordenadoria Geral De Tecnologias Educacionais - CGTE, situada no Centro de Referência em Formação e em Educação a Distância - Cefor do Instituto Federal do Espírito Santo.
